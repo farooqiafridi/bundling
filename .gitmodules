@@ -1,0 +1,3 @@
+[submodule "lovepackage"]
+	path = lovepackage
+	url = https://github.com/farooqiafridi/lovepackage.git
